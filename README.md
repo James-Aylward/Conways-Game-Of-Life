@@ -1,5 +1,5 @@
 # Conways-Game-of-Life
-Conways Game of Life written using C++ and SFML.
+Conways Game of Life written using C++ and SFML. You will need to have SFML installed to run this.
 
 Controls:
 
